@@ -36,3 +36,118 @@
     transform: rotate(360deg);
   }
 }
+
+/* my styling */
+#drum-machine{
+  border: 1px solid #CFD8DC;
+  border-radius: 25px;
+  background-color: #fff;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  margin: 30px 20px 30px 20px;
+  padding: 20px; 
+}
+
+#title{
+  font-size: 50px;
+  margin: 20px 20px 0px 20px;
+}
+
+#title-red{
+  font-size: 50px;
+  margin: 20px 20px 0px 20px;
+  color: #DB3643;
+}
+
+#title-green{
+  font-size: 50px;
+  margin: 20px 20px 0px 20px;
+  color: #27A845;
+}
+
+#subtitle{
+  color: #212529;
+  font-size: 25px;
+  padding-bottom: 15px;
+}
+
+#display-div{
+  margin-top: 20px;
+  margin-bottom: 30px;
+}
+
+.button-maker{
+  padding: 40px;
+  padding-top: 20px;
+}
+
+#type-title, #sound-title{
+  font-size: 20px;
+  padding-top: 10px;
+}
+
+#type-title-red, #sound-title-red{
+  font-size: 20px;
+  padding-top: 10px;
+  color: #DB3643;
+}
+
+#type-title-green, #sound-title-green{
+  font-size: 20px;
+  padding-top: 10px;
+  color: #27A845;
+}
+
+#sound-div{
+  border: 2px solid #212529;
+  border-radius: 25px;
+  height: 50px;
+  width: 60%;
+  color: #fff;
+  background-color: #2ca3e7;
+}
+
+#sound-div-red{
+  border: 2px solid #212529;
+  border-radius: 25px;
+  height: 50px;
+  width: 60%;
+  color: #fff;
+  background-color: #DB3643;
+}
+
+#sound-div-green{
+  border: 2px solid #212529;
+  border-radius: 25px;
+  height: 50px;
+  width: 60%;
+  color: #fff;
+  background-color: #27A845;
+}
+
+#sound{
+  font-size: 18px;
+  padding-top: 10px;
+}
+
+.drum-pad{
+  height: 70px;
+}
+
+#title-instruments, #type-title-instruments, #sound-title-instruments{
+  color: #D93645;
+}
+
+#sound-div-instruments{
+  background-color: #D93645
+}
+
+.drum-pad-instruments{
+  background-color: #D93645
+}
+
+#footer-text{
+  color: #263238;
+  margin-top: 15px;
+  text-decoration: underline;
+}
+
